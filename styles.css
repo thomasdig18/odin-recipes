@@ -1,0 +1,21 @@
+
+img {
+    width:300px;
+    height: auto;
+    
+}
+
+.description, .ingredients {
+    background-color: bisque;
+    width: 650px;
+}
+
+.steps {
+    background-color: lightgrey;
+    color: black;
+    width: 650px;
+}
+
+li {
+    font-family:'Gill Sans', 'Gill Sans MT', 'Trebuchet MS', sans-serif;
+}
